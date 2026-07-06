@@ -11,7 +11,6 @@
 [![Track](https://img.shields.io/badge/Track-Agents%20for%20Good-2e7d32?style=flat-square)]()
 [![Built with](https://img.shields.io/badge/Built%20with-Google%20ADK-4285F4?style=flat-square)]()
 [![Status](https://img.shields.io/badge/Status-Working%20Prototype-orange?style=flat-square)]()
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)]()
 
 > The underlying decision logic and dealer-order flow also transfer directly to the **Agents for Business** track if a cooperative or agri-input company deploys it.
 
